@@ -1,4 +1,4 @@
-import { getProduct } from "@/path/to/module";
+/* import { getProduct } from "@/path/to/module";
     async function getProduct(id){
         const payload = await getProduct()
         const employees = Object.values(payload)
@@ -11,9 +11,10 @@ import { getProduct } from "@/path/to/module";
         return (
         <>
         <main className=" min-h-screen py-24">
-        {/* single page data UI */}
+        {/* single page data UI *//*}
         </main>
         </>
         );
     }
 export default ProductPage
+*/
